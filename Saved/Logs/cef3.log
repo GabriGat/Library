@@ -131,3 +131,14 @@
 [0208/145916.453:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0208/150001.507:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0208/150104.868:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/102328.861:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/102813.020:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/105020.243:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/105258.061:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/105316.875:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/110546.444:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/110550.525:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/114434.596:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/114954.184:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/115115.520:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0209/115617.689:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
