@@ -187,3 +187,9 @@
 [0218/090243.175:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0218/090617.082:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0218/090652.520:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0218/161824.757:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0218/161832.351:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0218/161832.351:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0218/161832.760:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0218/161832.760:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0218/164234.051:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
