@@ -1200,3 +1200,64 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.18-09.46.49:822][381]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/E_ShelfModeF2A4AFFB4F6CA1CF9982D7B16E643F00.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Shelf/E_ShelfMode.uasset'
 [2023.02.18-09.46.49:876][381]AssetCheck: New page: Asset Save: E_ShelfMode
 [2023.02.18-09.46.49:876][381]LogContentValidation: Display: Validating UserDefinedEnum /Game/Library/Asset3D/Shelf/E_ShelfMode.E_ShelfMode
+[2023.02.18-09.49.55:434][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.18-09.49.55:487][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto5
+[2023.02.18-09.49.55:487][731]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/GQZUQAL9DMQ4Q4IOCT5L9F_Auto5A07F735F43AA26F144A424838205E54D.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto5.uasset'
+[2023.02.18-09.49.55:533][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Library/Map/LibMap' took 0.136
+[2023.02.18-09.49.55:533][731]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.136
+[2023.02.18-09.51.57:544][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.51.58:067][852]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.51.58:196][852]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn30F9879D474951BFF03F6AFB8AE58364D6.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.51.58:256][852]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.51.58:256][852]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.52.00:344][975]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.52.00:400][975]LogBlueprint: Warning: [AssetLog] D:\Gabri\Scuola\NabaArc3\PawnSacrifice\Library\Content\Library\Blueprints\BP_BookcaseDyn30.uasset: [Compiler] Can't parse default value '0' for  . Property: ShelfModeEnum.
+[2023.02.18-09.52.00:599][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.18-09.52.35:211][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.52.35:414][972]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.52.35:435][972]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn303C5D08E34C828FEFD3670DB1568CE7AC.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.52.35:490][972]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.52.35:491][972]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.52.36:192][ 13]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.52.36:458][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.02.18-09.55.51:108][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.55.53:950][478]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.55.54:033][478]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn30C2D575994F2C464D4C13788BE9F28C4A.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.55.54:098][478]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.55.54:098][478]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.55.54:841][516]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.55.55:059][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.18-09.56.38:307][ 69]LogEditorTransaction: Undo Move Node
+[2023.02.18-09.56.53:645][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.56.53:812][946]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.56.53:835][946]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn301F2249BE479630A465EC06B94A3D08FB.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.56.53:887][946]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.56.53:887][946]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.56.54:406][976]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.56.54:612][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.18-09.57.09:924][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.57.10:081][868]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.57.10:104][868]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn30C7D7FA2B4DA28D48B362EC9761C19905.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.57.10:156][868]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.57.10:156][868]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.57.11:103][922]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.57.11:316][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.18-09.57.35:746][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset" SILENT=true
+[2023.02.18-09.57.36:163][358]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30
+[2023.02.18-09.57.36:185][358]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn30B299D8934F7936CD19A66F8F349C3CEB.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30.uasset'
+[2023.02.18-09.57.36:241][358]AssetCheck: New page: Asset Save: BP_BookcaseDyn30
+[2023.02.18-09.57.36:241][358]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30.BP_BookcaseDyn30
+[2023.02.18-09.57.37:142][410]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-09.57.37:370][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.18-09.58.08:757][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.18-09.58.09:234][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/3/6M/5Q3KTUOBIT50TJOW9HPRGD
+[2023.02.18-09.58.09:256][235]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/5Q3KTUOBIT50TJOW9HPRGDA2E945E840589C6A163936B52B8BBCD2.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/3/6M/5Q3KTUOBIT50TJOW9HPRGD.uasset'
+[2023.02.18-09.58.09:372][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F
+[2023.02.18-09.58.09:469][235]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/GQZUQAL9DMQ4Q4IOCT5L9F43248FDF4578270B678C3A9F13B4D707.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F.uasset'
+[2023.02.18-09.58.09:516][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Blueprints/BP_BookcaseDyn30_2" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30_2.uasset" SILENT=true
+[2023.02.18-09.58.09:689][235]LogSavePackage: Moving output files for package: /Game/Library/Blueprints/BP_BookcaseDyn30_2
+[2023.02.18-09.58.09:689][235]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/BP_BookcaseDyn30_2DA0149D94259DED9A0F2CEA8E837F1C7.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Blueprints/BP_BookcaseDyn30_2.uasset'
+[2023.02.18-09.58.09:723][235]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-09.58.09:723][235]LogContentValidation: Display: Validating BP_BookcaseDyn30_C /Game/Library/Map/LibMap.LibMap:PersistentLevel.BP_BookcaseDyn30_C_UAID_085BD6BC01C8B56701_1989949787
+[2023.02.18-09.58.09:723][235]LogContentValidation: Display: Validating BP_BookcaseDyn30_C /Game/Library/Map/LibMap.LibMap:PersistentLevel.BP_BookcaseDyn30_C_UAID_085BD6BC01C8926501_1492888605
+[2023.02.18-09.58.09:723][235]LogContentValidation: Display: Validating Blueprint /Game/Library/Blueprints/BP_BookcaseDyn30_2.BP_BookcaseDyn30_2
