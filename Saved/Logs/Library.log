@@ -1566,3 +1566,275 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.18-16.26.15:496][782]BlueprintLog: New page: Compile BP_BookcaseDyn30
 [2023.02.18-16.26.15:722][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2023.02.18-16.26.18:997][964]LogEditorViewport: Clicking Background
+[2023.02.18-16.32.43:740][284]LogStaticMesh: Display: Building static mesh S_Pink_Book_vdkvcaz_lod0_Var1...
+[2023.02.18-16.32.44:399][314]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Pink_Book_vdkvcaz/T_PinkBook_vdkvcaz_4K_DpR.T_PinkBook_vdkvcaz_4K_DpR (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.02.18-16.32.45:391][367]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_N.T_Pink_Book_vdkvcaz_4K_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.02.18-16.32.45:851][392]LogViewport: Scene viewport resized to 1571x755, mode Windowed.
+[2023.02.18-16.32.45:931][394]LogViewport: Scene viewport resized to 1571x721, mode Windowed.
+[2023.02.18-16.32.46:001][396]LogViewport: Scene viewport resized to 1571x688, mode Windowed.
+[2023.02.18-16.32.46:009][396]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_D.T_Pink_Book_vdkvcaz_4K_D (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.02.18-16.32.46:044][397]LogViewport: Scene viewport resized to 1571x670, mode Windowed.
+[2023.02.18-16.32.46:108][398]LogViewport: Scene viewport resized to 1571x627, mode Windowed.
+[2023.02.18-16.32.46:183][400]LogViewport: Scene viewport resized to 1571x591, mode Windowed.
+[2023.02.18-16.32.46:236][402]LogViewport: Scene viewport resized to 1571x565, mode Windowed.
+[2023.02.18-16.32.46:307][404]LogViewport: Scene viewport resized to 1571x542, mode Windowed.
+[2023.02.18-16.32.46:377][406]LogViewport: Scene viewport resized to 1571x530, mode Windowed.
+[2023.02.18-16.32.46:427][408]LogViewport: Scene viewport resized to 1571x520, mode Windowed.
+[2023.02.18-16.32.46:500][410]LogViewport: Scene viewport resized to 1571x499, mode Windowed.
+[2023.02.18-16.32.46:574][412]LogViewport: Scene viewport resized to 1571x493, mode Windowed.
+[2023.02.18-16.32.47:658][464]LogStaticMesh: Built static mesh [3.93s] /Game/Megascans/3D_Assets/Pink_Book_vdkvcaz/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.33.17:081][971]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.33.17:081][971]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_Pink_Book_vdkvcaz_lod0_Var185C4631D42C37D7723BC38A8BBEBCC74.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Pink_Book_vdkvcaz/S_Pink_Book_vdkvcaz_lod0_Var1.uasset'
+[2023.02.18-16.33.17:169][971]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/MI_Pink_Book_vdkvcaz_4K
+[2023.02.18-16.33.17:169][971]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/MI_Pink_Book_vdkvcaz_4K89ADE4954C65454C2E7A61B132438715.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Pink_Book_vdkvcaz/MI_Pink_Book_vdkvcaz_4K.uasset'
+[2023.02.18-16.33.18:446][971]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_PinkBook_vdkvcaz_4K_DpR
+[2023.02.18-16.33.18:446][971]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_PinkBook_vdkvcaz_4K_DpR269CAA414FCF3FE15F336490D0F3356A.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_PinkBook_vdkvcaz_4K_DpR.uasset'
+[2023.02.18-16.33.20:923][971]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_N
+[2023.02.18-16.33.20:923][971]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_Pink_Book_vdkvcaz_4K_N96EC768B4BDAA8DA1F96958485A1FE48.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_N.uasset'
+[2023.02.18-16.33.23:858][971]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_D
+[2023.02.18-16.33.23:859][971]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_Pink_Book_vdkvcaz_4K_D7C996BEA4DBC92CD406779ADD1F56F48.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_D.uasset'
+[2023.02.18-16.33.23:971][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.02.18-16.33.23:999][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.18-16.33.24:027][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.18-16.33.24:215][971]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-16.33.24:215][971]LogContentValidation: Display: Validating StaticMesh /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.33.24:215][971]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/MI_Pink_Book_vdkvcaz_4K.MI_Pink_Book_vdkvcaz_4K
+[2023.02.18-16.33.24:215][971]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_PinkBook_vdkvcaz_4K_DpR.T_PinkBook_vdkvcaz_4K_DpR
+[2023.02.18-16.33.24:215][971]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_N.T_Pink_Book_vdkvcaz_4K_N
+[2023.02.18-16.33.24:215][971]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Pink_Book_vdkvcaz/T_Pink_Book_vdkvcaz_4K_D.T_Pink_Book_vdkvcaz_4K_D
+[2023.02.18-16.33.44:895][ 94]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.33.44:895][ 94]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_Pink_Book_vdkvcaz_lod0_Var109BB3A46425BA4E02B6677BBB1F1562C.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.uasset'
+[2023.02.18-16.33.44:965][ 94]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Book09/MI_Pink_Book_vdkvcaz_4K
+[2023.02.18-16.33.44:965][ 94]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/MI_Pink_Book_vdkvcaz_4KB11C7B684405560FD03CCE838410DBFB.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Book09/MI_Pink_Book_vdkvcaz_4K.uasset'
+[2023.02.18-16.33.46:157][ 94]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Book09/T_PinkBook_vdkvcaz_4K_DpR
+[2023.02.18-16.33.46:157][ 94]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_PinkBook_vdkvcaz_4K_DpRA6C60ABD41BEC28D77C1B28F53FD07D3.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Book09/T_PinkBook_vdkvcaz_4K_DpR.uasset'
+[2023.02.18-16.33.48:597][ 94]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_N
+[2023.02.18-16.33.48:597][ 94]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_Pink_Book_vdkvcaz_4K_N1A993AA643D58A871ED1D582CB9AC40C.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_N.uasset'
+[2023.02.18-16.33.51:603][ 94]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_D
+[2023.02.18-16.33.51:603][ 94]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/T_Pink_Book_vdkvcaz_4K_D8EA18FE846AF0742F9911AA1E5043676.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_D.uasset'
+[2023.02.18-16.33.51:720][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.18-16.33.51:748][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.18-16.33.51:773][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.18-16.33.52:014][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-16.33.52:014][ 94]LogContentValidation: Display: Validating StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.33.52:014][ 94]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Library/Asset3D/Book/Book09/MI_Pink_Book_vdkvcaz_4K.MI_Pink_Book_vdkvcaz_4K
+[2023.02.18-16.33.52:014][ 94]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Book09/T_PinkBook_vdkvcaz_4K_DpR.T_PinkBook_vdkvcaz_4K_DpR
+[2023.02.18-16.33.52:015][ 94]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_N.T_Pink_Book_vdkvcaz_4K_N
+[2023.02.18-16.33.52:015][ 94]LogContentValidation: Display: Validating Texture2D /Game/Library/Asset3D/Book/Book09/T_Pink_Book_vdkvcaz_4K_D.T_Pink_Book_vdkvcaz_4K_D
+[2023.02.18-16.34.09:384][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.18-16.34.09:516][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M_Auto5
+[2023.02.18-16.34.09:516][ 36]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/02MWMEJJAF2KPV433QT56M_Auto56DA6FF34499E3188FCF17DA3F611DED2.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M_Auto5.uasset'
+[2023.02.18-16.34.09:594][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto5
+[2023.02.18-16.34.09:690][ 36]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/GQZUQAL9DMQ4Q4IOCT5L9F_Auto590A929164BF0E8BA3FA53A892223608C.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto5.uasset'
+[2023.02.18-16.34.09:749][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Library/Map/LibMap' took 0.392
+[2023.02.18-16.34.09:749][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.392
+[2023.02.18-16.35.02:930][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.35.02:988][967]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.35.03:037][967]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookC67118264049EF925C8B67B3AD793400.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.35.03:097][967]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.35.03:097][967]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.35.04:470][ 40]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.35.04:751][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.18-16.35.32:932][594]LogViewport: Scene viewport resized to 1045x283, mode Windowed.
+[2023.02.18-16.35.34:367][648]LogViewport: Scene viewport resized to 1571x493, mode Windowed.
+[2023.02.18-16.37.36:759][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.37.36:759][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.37.36:759][600]LogActorFactory: Actor Factory spawned StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1 as actor: StaticMeshActor /Game/Library/Map/LibMap.LibMap:PersistentLevel.StaticMeshActor_3
+[2023.02.18-16.37.37:504][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.37.37:504][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1
+[2023.02.18-16.37.37:505][642]LogActorFactory: Actor Factory spawned StaticMesh /Game/Library/Asset3D/Book/Book09/S_Pink_Book_vdkvcaz_lod0_Var1.S_Pink_Book_vdkvcaz_lod0_Var1 as actor: StaticMeshActor /Game/Library/Map/LibMap.LibMap:PersistentLevel.StaticMeshActor_UAID_085BD6BC01C8D06701_1624353537
+[2023.02.18-16.40.00:146][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.40.02:947][717]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.40.02:998][717]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookB991E2D94E6D73CEE3BA7F93AF862D1A.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.40.03:062][717]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.40.03:062][717]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.40.08:242][  3]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.40.08:510][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.18-16.40.24:618][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.40.24:658][899]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.40.24:680][899]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook1633AD5E45A21574A14DED95981C8DEC.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.40.24:738][899]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.40.24:738][899]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.40.26:342][986]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.40.26:576][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.18-16.40.39:197][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.40.39:252][686]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.40.39:276][686]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook0B672AD643BC202903CBB88ECB1C2F29.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.40.39:333][686]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.40.39:333][686]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.40.41:009][777]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.40.41:245][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.18-16.40.57:824][705]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.40.58:068][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.18-16.41.07:153][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.41.07:198][198]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.41.07:220][198]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook12B5448E4F4ECD394BBC3087B6D12EA4.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.41.07:275][198]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.41.07:275][198]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.41.08:221][248]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.41.08:467][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.02.18-16.41.36:512][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.41.36:930][829]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.41.36:952][829]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook83BA22064019AAF4B23C94BC93114DCB.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.41.37:009][829]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.41.37:009][829]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.41.38:615][916]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.41.38:868][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.18-16.41.50:088][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.41.50:136][538]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.41.50:158][538]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook46F361DF4C5241EC485AB09673F0C2AE.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.41.50:212][538]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.41.50:212][538]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.41.51:116][588]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.41.51:367][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.18-16.42.20:580][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.42.21:002][244]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.42.21:024][244]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook8A4539DD48C7FF7D0E79EF92E05D47A3.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.42.21:081][244]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.42.21:081][244]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.42.22:275][311]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.42.22:523][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.18-16.42.36:410][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.42.36:464][ 85]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.42.36:487][ 85]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook8D0822BA4C321725D240C0ADD3808264.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.42.36:540][ 85]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.42.36:540][ 85]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.42.38:034][164]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.42.38:270][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.18-16.43.18:564][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.43.18:986][453]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.43.19:010][453]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook766CA6BD46D4320276B09394A1C1F9EF.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.43.19:062][453]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.43.19:062][453]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.43.20:035][507]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.43.20:279][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.18-16.43.31:973][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.43.32:039][153]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.43.32:061][153]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookE05D6B1F487D614F4D93C396B55698CB.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.43.32:114][153]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.43.32:114][153]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.43.36:961][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.43.37:009][420]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.43.37:030][420]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook11434CF641A85BBC62447EBD67CFA361.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.43.37:083][420]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.43.37:083][420]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.43.38:020][472]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.43.38:263][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.18-16.44.19:079][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.44.19:499][796]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.44.19:521][796]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookE9A8D0344B63774C021FD39074CE87E3.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.44.19:578][796]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.44.19:578][796]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.44.20:508][848]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.44.20:757][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.18-16.44.48:903][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.44.49:317][441]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.44.49:340][441]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook8D7883AD49919514F0E278A4CBAFF0CE.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.44.49:396][441]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.44.49:396][441]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.44.51:114][537]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.44.51:359][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.02.18-16.45.04:601][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.45.04:659][275]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.45.04:682][275]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook7AFDCD2D48CDBE21826DDD8EA2219BE6.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.45.04:746][275]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.45.04:746][275]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.45.05:832][335]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.45.06:078][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.18-16.45.16:028][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.45.16:076][884]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.45.16:098][884]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookF996567C406C33BE00322D8E5EE5ECE2.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.45.16:152][884]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.45.16:152][884]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.45.17:344][951]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.45.17:590][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.18-16.45.31:841][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.45.31:895][741]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.45.31:918][741]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookF92A8B054B16935B871E1F8A89EF1B87.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.45.31:973][741]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.45.31:973][741]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.45.32:902][792]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.45.33:129][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.18-16.45.50:456][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.45.50:504][762]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.45.50:527][762]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBookAE5B59A947825E0DEB62A6AFF132F1F0.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.45.50:581][762]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.45.50:581][762]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.45.52:668][877]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.45.52:902][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.18-16.46.07:953][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-16.46.08:012][720]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-16.46.08:035][720]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook2A2D9D15459E36B771C8C0A434235A69.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-16.46.08:089][720]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-16.46.08:089][720]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-16.46.10:028][827]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.46.10:270][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.18-16.46.11:372][881]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-16.46.11:611][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.18-16.47.32:963][436]LogViewport: Scene viewport resized to 1571x511, mode Windowed.
+[2023.02.18-16.47.33:018][438]LogViewport: Scene viewport resized to 1571x544, mode Windowed.
+[2023.02.18-16.47.33:061][440]LogViewport: Scene viewport resized to 1571x572, mode Windowed.
+[2023.02.18-16.47.33:084][441]LogViewport: Scene viewport resized to 1571x586, mode Windowed.
+[2023.02.18-16.47.33:113][442]LogViewport: Scene viewport resized to 1571x600, mode Windowed.
+[2023.02.18-16.47.33:148][443]LogViewport: Scene viewport resized to 1571x614, mode Windowed.
+[2023.02.18-16.47.33:190][445]LogViewport: Scene viewport resized to 1571x633, mode Windowed.
+[2023.02.18-16.47.33:221][446]LogViewport: Scene viewport resized to 1571x645, mode Windowed.
+[2023.02.18-16.47.33:261][448]LogViewport: Scene viewport resized to 1571x660, mode Windowed.
+[2023.02.18-16.47.33:312][450]LogViewport: Scene viewport resized to 1571x676, mode Windowed.
+[2023.02.18-16.47.33:340][451]LogViewport: Scene viewport resized to 1571x690, mode Windowed.
+[2023.02.18-16.47.33:376][452]LogViewport: Scene viewport resized to 1571x711, mode Windowed.
+[2023.02.18-16.47.33:400][453]LogViewport: Scene viewport resized to 1571x724, mode Windowed.
+[2023.02.18-16.47.33:427][454]LogViewport: Scene viewport resized to 1571x746, mode Windowed.
+[2023.02.18-16.47.33:481][456]LogViewport: Scene viewport resized to 1571x783, mode Windowed.
+[2023.02.18-16.47.33:522][458]LogViewport: Scene viewport resized to 1571x794, mode Windowed.
+[2023.02.18-16.47.33:545][459]LogViewport: Scene viewport resized to 1571x795, mode Windowed.
+[2023.02.18-16.47.33:644][463]LogViewport: Scene viewport resized to 1571x784, mode Windowed.
+[2023.02.18-16.48.49:398][824]LogEditorViewport: Clicking Background
+[2023.02.18-16.51.45:773][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.18-16.51.45:797][ 67]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/4/MS/FENMZNYTXMEV7DR0IVHSJX_Auto6
+[2023.02.18-16.51.45:876][ 67]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/FENMZNYTXMEV7DR0IVHSJX_Auto6E38458D34480F14C41365ABFEFBAFF95.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/4/MS/FENMZNYTXMEV7DR0IVHSJX_Auto6.uasset'
+[2023.02.18-16.51.46:038][ 67]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M_Auto6
+[2023.02.18-16.51.46:038][ 67]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/02MWMEJJAF2KPV433QT56M_Auto641ED392A48C125CBD791E9B1F45841BF.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M_Auto6.uasset'
+[2023.02.18-16.51.46:096][ 67]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto6
+[2023.02.18-16.51.46:172][ 67]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/GQZUQAL9DMQ4Q4IOCT5L9F_Auto6B444F6194BFE11D576721A905E48A40A.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F_Auto6.uasset'
+[2023.02.18-16.51.46:274][ 67]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/A/BI/L1B0JQP4OYXGI410BUSWWR_Auto6
+[2023.02.18-16.51.46:274][ 67]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/L1B0JQP4OYXGI410BUSWWR_Auto6DFC6E9724F7E8A449568628A61466C2C.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/Autosaves/Game/__ExternalActors__/Library/Map/LibMap/A/BI/L1B0JQP4OYXGI410BUSWWR_Auto6.uasset'
+[2023.02.18-16.51.46:299][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Library/Map/LibMap' took 0.556
+[2023.02.18-16.51.46:299][ 67]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.556
+[2023.02.18-16.56.55:562][  1]LogEditorViewport: Clicking Background
+[2023.02.18-16.56.56:690][ 59]LogEditorViewport: Clicking Background
+[2023.02.18-17.01.50:942][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-17.01.51:001][417]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-17.01.51:028][417]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook8547508C4F03EFB03801808602BDBF7D.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-17.01.51:093][417]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-17.01.51:093][417]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-17.02.07:605][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-17.02.07:654][332]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-17.02.07:676][332]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook6DA173FF4D09B669EED301895B477F51.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-17.02.07:729][332]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-17.02.07:729][332]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-17.02.08:831][390]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-17.02.09:054][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.18-17.03.12:083][953]BlueprintLog: New page: Compile BP_BookcaseDyn30
+[2023.02.18-17.03.12:391][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.18-17.03.16:131][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Library/Asset3D/Book/S_TableBook" FILE="D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset" SILENT=true
+[2023.02.18-17.03.16:181][  0]LogSavePackage: Moving output files for package: /Game/Library/Asset3D/Book/S_TableBook
+[2023.02.18-17.03.16:225][  0]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/S_TableBook121F47954C72CE4AAB624C98721E5850.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/Library/Asset3D/Book/S_TableBook.uasset'
+[2023.02.18-17.03.16:278][  0]AssetCheck: New page: Asset Save: S_TableBook
+[2023.02.18-17.03.16:278][  0]LogContentValidation: Display: Validating DataTable /Game/Library/Asset3D/Book/S_TableBook.S_TableBook
+[2023.02.18-17.03.18:329][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/4/MS/FENMZNYTXMEV7DR0IVHSJX
+[2023.02.18-17.03.18:386][104]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/FENMZNYTXMEV7DR0IVHSJX34A9CCD442430C50F6A406AE699CF286.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/4/MS/FENMZNYTXMEV7DR0IVHSJX.uasset'
+[2023.02.18-17.03.18:545][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M
+[2023.02.18-17.03.18:655][104]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/02MWMEJJAF2KPV433QT56M69CDDE9944CC45AF22E31599D8C1206A.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/B/EY/02MWMEJJAF2KPV433QT56M.uasset'
+[2023.02.18-17.03.18:759][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F
+[2023.02.18-17.03.18:868][104]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/GQZUQAL9DMQ4Q4IOCT5L9F74E6F7594278D0EAD42BFE9E6ADC3614.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/2/WM/GQZUQAL9DMQ4Q4IOCT5L9F.uasset'
+[2023.02.18-17.03.18:936][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/3/RQ/HLD5IDRYO3IPVASQJ3QGT3
+[2023.02.18-17.03.18:938][104]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/HLD5IDRYO3IPVASQJ3QGT30FBB882A4E7F3FF12B736C9792A2D9D7.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/3/RQ/HLD5IDRYO3IPVASQJ3QGT3.uasset'
+[2023.02.18-17.03.18:995][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Library/Map/LibMap/A/BI/L1B0JQP4OYXGI410BUSWWR
+[2023.02.18-17.03.18:995][104]LogSavePackage: Moving 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Saved/L1B0JQP4OYXGI410BUSWWRE08ECAC9463A15B09F70E08C1469CAB7.tmp' to 'D:/Gabri/Scuola/NabaArc3/PawnSacrifice/Library/Content/__ExternalActors__/Library/Map/LibMap/A/BI/L1B0JQP4OYXGI410BUSWWR.uasset'
+[2023.02.18-17.03.19:040][104]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-17.03.19:040][104]LogContentValidation: Display: Validating StaticMeshActor /Game/Library/Map/LibMap.LibMap:PersistentLevel.StaticMeshActor_UAID_085BD6BC01C8CD6701_2083411008
+[2023.02.18-17.03.19:040][104]LogContentValidation: Display: Validating StaticMeshActor /Game/Library/Map/LibMap.LibMap:PersistentLevel.StaticMeshActor_UAID_085BD6BC01C8936401_1617000636
+[2023.02.18-17.03.19:040][104]LogContentValidation: Display: Validating BP_BookcaseDyn30_Multi_C /Game/Library/Map/LibMap.LibMap:PersistentLevel.BP_BookcaseDyn30_Multi_C_UAID_085BD6BC01C8BB6701_1099632844
+[2023.02.18-17.03.19:040][104]LogContentValidation: Display: Validating BP_BookcaseDyn30_C /Game/Library/Map/LibMap.LibMap:PersistentLevel.BP_BookcaseDyn30_C_UAID_085BD6BC01C8B56701_1989949787
+[2023.02.18-17.03.19:040][104]LogContentValidation: Display: Validating StaticMeshActor /Game/Library/Map/LibMap.LibMap:PersistentLevel.StaticMeshActor_UAID_085BD6BC01C8D06701_1624353537
